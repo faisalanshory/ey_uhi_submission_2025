@@ -1,0 +1,4 @@
+*.tif
+*.pkl
+dataset/vector/
+model/
