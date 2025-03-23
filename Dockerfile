@@ -29,4 +29,4 @@ RUN .venv/bin/pip install -r requirements.txt
 
 EXPOSE 8080
 
-CMD [".venv/bin/jupyter", "lab", "--port", "8080", "--ip", "0.0.0.0"]
+CMD [".venv/bin/jupyter", "lab", "--port", "8080", "--ip", "0.0.0.0", "--allow-root"]

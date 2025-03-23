@@ -19,7 +19,5 @@ rioxarray~=0.18
 scikit-image~=0.24
 scikit-learn~=1.5
 scipy~=1.14
-tensorflow~=2.18
 xgboost~=2.1.4
-ydf~=0.8
 xarray~=2025.1
