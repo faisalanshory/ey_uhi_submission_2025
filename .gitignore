@@ -2,3 +2,6 @@
 *.pkl
 dataset/vector/
 model/
+
+.venv
+.env
